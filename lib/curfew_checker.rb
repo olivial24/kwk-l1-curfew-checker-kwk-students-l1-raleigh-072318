@@ -7,12 +7,12 @@ end
 def curfew_checker(time)
  if time == 11 
    "You're in trouble! Better get back to Hogwarts quick!"
-   elsif time < 11 
+   elsif time < 11 "You have 2 hour(s) left to keep having fun!"
  end 
 end
 
 def complex_curfew_checker(time)
-  
+  # code goes here 
 end
 
 def deluxe_curfew_checker(time)
