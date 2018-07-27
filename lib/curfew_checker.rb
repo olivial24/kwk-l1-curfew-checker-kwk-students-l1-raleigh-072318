@@ -21,11 +21,9 @@ def complex_curfew_checker(time)
     "Keep having fun!"
   end
 end 
-      
   
-
 def deluxe_curfew_checker(time)
-  # code goes here
+  if time 
 end
 
 def platinum_curfew_checker(current_time, curfew_time)
